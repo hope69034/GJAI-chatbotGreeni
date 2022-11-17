@@ -1,6 +1,10 @@
-# 심리상담 챗봇 그리니 Greeni 
+## 심리상담 챗봇 그리니 Greeni 
 
 ![](result.png)
+
+## Deploy
+
+https://hope69034-chatbotgreeni-psychotherapy-toa0l9.streamlit.app/
 
 ## Pretrained Model
 
