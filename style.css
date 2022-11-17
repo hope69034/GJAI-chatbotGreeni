@@ -1,0 +1,68 @@
+/* 그리니의 심리상담 글자색 */
+.css-1fv8s86 p {
+    color:#489c90;
+    font-weight : bolder;
+} 
+/* Main 링크 밑줄 제거*/
+a {
+text-decoration: auto;
+}
+/* Main 링크 글자 색 */
+.css-1fv8s86 a {
+color:#489c90;
+}
+/* 메시지입력 큰 창 */
+div.css-1p05t8e.epcbefy1 {
+    background: #489c90;
+}
+/* 당신: */
+label.css-k3w14i.effi0qh3 {
+    color : rgb(0 0 0);
+    font-weight : bolder;
+    font-size:large;
+}
+/* 전송 버튼 */
+button.css-5uatcg.edgvbvh5 {
+    color : #489c90;
+}
+/* 그리의 심리~ 작은 글씨 */
+.css-1avcm0n {
+    background : #489c90;
+}
+/* 여기서 백그라운드컬러 : 배경색 전체 */
+.css-ffhzg2 {
+    color : #489c90;
+    background :  #0e1117;
+}
+/* 인풋란 배경색 */
+.st-cj {
+    background: #0e1117;
+    color: rgb(255, 255, 255);
+}
+/* 인풋란 글자색  */
+.st-bx {
+    color:rgb(255, 255, 255);
+}
+/* 헤더 = 이랑 > 색 */
+.css-1rs6os {
+    color:black
+}
+/* 채팅창오른쪽 스크롤바 색상 */
+::-webkit-scrollbar{
+    background : #489c90;
+}
+/* 인풋창위랑아래 사이사이 */
+.css-cyzx6j {
+    background: #000000;
+}
+
+/* <img src="https://avatars.dicebear.com/api/pixel-art-neutral/42.svg" alt="profile" draggable="false" class="css-kcb0to"> */
+/* .css-kcb0to
+{
+    background-image:url('https://images.chosun.com/resizer/7fXeUbYGUI9_MWDKxDvD3PBUM3c=/210x210/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLAG2JUEF5DVJEQFYXCDAFW4FA.png');
+    width: 150px;
+}
+img {
+    width: 150px;
+    -webkit-mask-image: url('https://images.chosun.com/resizer/7fXeUbYGUI9_MWDKxDvD3PBUM3c=/210x210/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLAG2JUEF5DVJEQFYXCDAFW4FA.png');
+  } */
