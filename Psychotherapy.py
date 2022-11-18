@@ -53,7 +53,7 @@ if 'past' not in st.session_state:
 with st.form('form', clear_on_submit=True):
     user_input = st.text_input('Greeni Psychotherapy')
     submitted = st.form_submit_button('Enter')
-   # submitted2 = st.form_submit_button('말하기2')
+    # submitted2 = st.form_submit_button('말하기2')
     
 
 if submitted and user_input:
